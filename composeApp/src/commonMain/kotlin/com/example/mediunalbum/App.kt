@@ -38,7 +38,7 @@ import mediunalbum.composeapp.generated.resources.album_cover
 import mediunalbum.composeapp.generated.resources.album_thumb_1
 import mediunalbum.composeapp.generated.resources.album_thumb_10
 import mediunalbum.composeapp.generated.resources.album_thumb_11
-import mediunalbum.composeapp.generated.resources.album_thumb_13
+import mediunalbum.composeapp.generated.resources.album_thumb_12
 import mediunalbum.composeapp.generated.resources.album_thumb_2
 import mediunalbum.composeapp.generated.resources.album_thumb_3
 import mediunalbum.composeapp.generated.resources.album_thumb_4
@@ -74,7 +74,7 @@ fun App() {
             Res.drawable.album_thumb_9,
             Res.drawable.album_thumb_10,
             Res.drawable.album_thumb_11,
-            Res.drawable.album_thumb_13,
+            Res.drawable.album_thumb_12,
         )
 
         Box(
